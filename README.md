@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my top projects:  
 
-- [Travel Packing List App](https://github.com/jhasaurav97/travel-packing-list-app) - A dynamic React-based app for creating and managing travel packing lists.  
+- [Travel Packing List App](https://beautiful-pudding-2b0bf1.netlify.app/) - A dynamic React-based app for creating and managing travel packing lists.  
 - [Job Portal](https://github.com/jhasaurav97/job-portal) - A MERN stack job portal with role-based access control and secure authentication.  
 - [Portfolio Website](https://github.com/jhasaurav97/portfolio-website) - A responsive portfolio website built using React.js.  
 
