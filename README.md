@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software develo
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative startup ideas**.  
 - 🤔 I’m looking for help with **building scalable backend systems and optimizing APIs**.  
 - 💬 Ask me about **React.js, JavaScript, and full-stack development**.  
-- 📫 How to reach me: [jhasaurav593@gmail.com](mailto:jhasaurav593@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jhasaurav97/)  
+- 📫 How to reach me: [jhasaurav593@gmail.com](mailto:jhasaurav593@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jha-saurav97/)  
 - ⚡ Fun fact: I love brainstorming startup ideas and creating solutions that empower others through technology!  
 
 ## 🛠️ Technologies & Tools  
@@ -37,7 +37,7 @@ Here are some of my top projects:
 
 Let's connect on social media:  
 
-- [LinkedIn](https://www.linkedin.com/in/jhasaurav97/)  
+- [LinkedIn](https://www.linkedin.com/in/jha-saurav97/)  
 - [Twitter](https://twitter.com/jhasaurav97)  
 
 Thank you for visiting my profile! Let's create something amazing together! 😊  
