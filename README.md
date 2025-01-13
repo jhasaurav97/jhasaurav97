@@ -1,5 +1,5 @@
 # Hi there, I'm Saurav Jha! 👋  
-# New role, new adventures! 🖥️ Excited to join Coregenic Softwares as a Junior Full Stack Developer. Here’s to coding, learning, and creating amazing things! 🚀
+## New role, new adventures! 🖥️ Excited to join Coregenic Softwares as a Junior Full Stack Developer. Here’s to coding, learning, and creating amazing things! 🚀
 
 Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software developer** passionate about creating responsive, interactive, and scalable web applications. I love learning new technologies and solving real-world problems through code.  
 
