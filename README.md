@@ -17,10 +17,12 @@ Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software develo
 
 Here are some of the technologies and tools I work with:  
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Node.js, Express.js  
-- **Tools & Platforms:** Git, GitHub, OpenLayers GIS, VS Code  
-- **Other Skills:** RESTful APIs, State Management, Responsive Design  
+- **Languages:**  JavaScript, HTML, CSS, PHP  
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, jQuery
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Hostinger, OpenLayers GIS 
+- **Other Skills:** RESTful APIs, State Management (Redux, Context API), Responsive Web Design, SEO Optimization, Webpack & Babel, Custom JavaScript Framework Development
+- **Database & Backend:** MongoDB, MySQL, File-based storage (PHP), API Integration & Optimization
+- **Dev Practices:** Component-based architecture, Code reusability, Cross-browser compatibility, Scalable design patterns 
 
 ## 🔥 My GitHub Stats  
 
