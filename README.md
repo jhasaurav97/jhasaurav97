@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software develo
 
 ## 🌟 About Me  
 
-- 🔭 I’m currently building **innovative web applications** and exploring **full-stack development**.  
-- 🌱 I’m currently learning **advanced React.js concepts** and exploring **OpenLayers GIS** integration.  
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative startup ideas**.  
-- 🤔 I’m looking for help with **building scalable backend systems and optimizing APIs**.  
-- 💬 Ask me about **React.js, JavaScript, and full-stack development**.  
+- 🔭 I’m currently working as a Junior Full Stack Developer at Coregenic Softwares Pvt. Ltd., building dynamic web applications and custom solutions for real-world clients.**.  
+- 🚀 I’ve developed projects like an e-commerce website for a USA-based client, a React-based API integration project, and various SEO-optimized websites for digital marketing firms. 
+- 🌱 I’m deep-diving into Next.js, custom JavaScript frameworks, and system design, while also enhancing my skills in PHP, Node.js, and OpenLayers GIS.**.  
+- 👯 I’m open to collaborating on startup ideas, innovative SaaS tools, and open-source contributions that solve real problems.**.
+- 🤔 I’m exploring scalable architecture, state management, and creating my own virtual DOM with Vanilla JS.**.  
+- 💬 Ask me about React.js, Next.js, JavaScript, backend development, or anything around building modern, scalable apps.**.  
 - 📫 How to reach me: [jhasaurav593@gmail.com](mailto:jhasaurav593@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jha-saurav97/)  
-- ⚡ Fun fact: I love brainstorming startup ideas and creating solutions that empower others through technology!  
+- ⚡ Fun fact: I’m passionate about building a unique startup, sharing my learning journey, and helping others grow through code and community!  
 
 ## 🛠️ Technologies & Tools  
 
@@ -38,6 +39,6 @@ Here are some of my top projects:
 Let's connect on social media:  
 
 - [LinkedIn](https://www.linkedin.com/in/jha-saurav97/)  
-- [Twitter](https://twitter.com/jhasaurav97)  
+- [Twitter](https://x.com/Sauravjha97)  
 
 Thank you for visiting my profile! Let's create something amazing together! 😊  
