@@ -32,17 +32,17 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my top projects:  
 
--🛒 E-commerce Website for Printers & Games (USA Client) (https://p4pbestbuy.com/)
-A full-featured React + PHP based e-commerce platform developed for a U.S.-based client selling printers, MS Office licenses, and video games. Integrated with secure payments, product filtering, and a responsive design. (Live Production Project)
+-🛒 E-commerce Website for Printers & Games (USA Client)
+A full-featured React + PHP based e-commerce platform developed for a U.S.-based client selling printers, MS Office licenses, and video games. Integrated with secure payments, product filtering, and a responsive design. (Live Production Project : https://p4pbestbuy.com/)
 
--🌐 Digital Marketing Website - JIA LLC (https://printdrivenmedia.com/)
-A fully responsive business website built with HTML, CSS, and JavaScript, showcasing digital marketing services. Includes SEO-optimized service pages, call-to-actions, and a clean layout focused on lead generation. (Live Project)
+-🌐 Digital Marketing Website - JIA LLC 
+A fully responsive business website built with HTML, CSS, and JavaScript, showcasing digital marketing services. Includes SEO-optimized service pages, call-to-actions, and a clean layout focused on lead generation. (Live Project : https://printdrivenmedia.com/)
 
--🧳 Travel Packing List App(https://beautiful-pudding-2b0bf1.netlify.app/)
-A fun and functional React.js application to manage travel items efficiently. Allows users to add, mark, and delete packing list items with local storage support. (Personal Project)
+-🧳 Travel Packing List App
+A fun and functional React.js application to manage travel items efficiently. Allows users to add, mark, and delete packing list items with local storage support. (Personal Project: https://beautiful-pudding-2b0bf1.netlify.app/)
 
 -🌟 Portfolio Website
-A clean and modern React-based personal portfolio to showcase my skills, resume, and projects. Built with reusable components and responsive design. (Public Project)
+A clean and modern React-based personal portfolio to showcase my skills, resume, and projects. Built with reusable components and responsive design. (https://677b851ddd610f9ea40b6b9e--vocal-queijadas-86be8f.netlify.app/)
 
 ## 📫 Connect with Me  
 
