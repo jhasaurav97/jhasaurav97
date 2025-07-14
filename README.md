@@ -26,7 +26,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔥 My GitHub Stats  
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasaurav97&show_icons=true&theme=radical)  
+![Saurav's GitHub stats]  
 
 ## 🚀 Top Projects  
 
