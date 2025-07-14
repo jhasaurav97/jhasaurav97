@@ -1,10 +1,10 @@
-# Hi there, I'm Saurav Jha! 👋  Junior Full Stack Developer @ Coregenic Softwares | Passionate about creating impactful solutions with code
+# Hi there, I'm Saurav Jha! 👋  Full Stack Developer @ Coregenic Softwares | Passionate about creating impactful solutions with code
 
 Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software developer** passionate about creating responsive, interactive, and scalable web applications. I love learning new technologies and solving real-world problems through code.  
 
 ## 🌟 About Me  
 
-- 🔭 I’m currently working as a Junior Full Stack Developer at Coregenic Softwares Pvt. Ltd., building dynamic web applications and custom solutions for real-world clients.**.  
+- 🔭 I’m currently working as a Full Stack Developer at Coregenic Softwares Pvt. Ltd., building dynamic web applications and custom solutions for real-world clients.**.  
 - 🚀 I’ve developed projects like an e-commerce website for a USA-based client, a React-based API integration project, and various SEO-optimized websites for digital marketing firms. 
 - 🌱 I’m deep-diving into Next.js, custom JavaScript frameworks, and system design, while also enhancing my skills in PHP, Node.js, and OpenLayers GIS.**.  
 - 👯 I’m open to collaborating on startup ideas, innovative SaaS tools, and open-source contributions that solve real problems.**.
