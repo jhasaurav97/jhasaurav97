@@ -46,7 +46,7 @@ production-ready deployment.
 deployment configuration for multi-server setup.
 – Deployed **frontend on Vercel** and **backend on Render**, handling **cross-origin communication**, secure cookies,
 and environment variables efficiently. 
-- **Live:** [note-keeper-app](note-keeper-app-phi.vercel.app/)  
+- **Live:** https://note-keeper-app-phi.vercel.app/ 
 
 ### 🛒 E-commerce Website for Printers & Games (USA Client)  
 A full-featured React + PHP e-commerce platform for a U.S.-based client selling printers, MS Office licenses, and video games. Integrated secure payments, product filtering, and responsive design.  
