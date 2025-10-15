@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software develo
 
 ## 🌟 About Me  
 
-- 🔭 Previously worked as a Full Stack Developer at **Espion Pvt. Ltd.**, building dynamic web applications and custom solutions for real-world clients.  
+- 🔭 Currently freelancing as a Full Stack Developer at Espion Pvt. Ltd., creating dynamic web apps and custom solutions for clients.
 - 🚀 Developed projects including an **e-commerce platform for a USA client**, a **React-based API integration project**, and various **SEO-optimized websites** for digital marketing agencies.  
 - 🌱 Currently deep-diving into **Next.js, custom JavaScript frameworks, and system design**, while enhancing skills in **PHP, Node.js, and OpenLayers GIS**.  
 - 👯 Open to collaborating on **startup ideas, innovative SaaS tools, and open-source contributions** that solve real problems.  
@@ -36,6 +36,17 @@ Welcome to my GitHub profile! I'm a **dedicated and enthusiastic software develo
 ---
 
 ## 🚀 Top Projects  
+
+### 🛒 Note Keeper App 
+- Built a **full-stack web app** where users can **sign up, log in, and manage notes** securely with **JWT
+authentication** and **bcrypt password hashing**.
+– Implemented **scalable backend architecture**, modular controllers, reusable middleware, and proper error handling for
+production-ready deployment.
+– Solved **real-world challenges**: CORS issues between Vercel Render, SPA routing issues with React Router, and
+deployment configuration for multi-server setup.
+– Deployed **frontend on Vercel** and **backend on Render**, handling **cross-origin communication**, secure cookies,
+and environment variables efficiently. 
+**Live:** [smartprintlogic.com](note-keeper-app-phi.vercel.app/)  
 
 ### 🛒 E-commerce Website for Printers & Games (USA Client)  
 A full-featured React + PHP e-commerce platform for a U.S.-based client selling printers, MS Office licenses, and video games. Integrated secure payments, product filtering, and responsive design.  
