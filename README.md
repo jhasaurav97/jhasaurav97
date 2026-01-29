@@ -42,6 +42,7 @@ A secure MERN stack application for managing personal notes.
 
 🔗 Live App: https://note-keeper-app-phi.vercel.app
 🔗 Repo: https://github.com/jhasaurav97/Note-Keeper-App
+
 ---
 
 ## 🛠 Tech I use regularly
