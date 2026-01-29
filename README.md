@@ -40,8 +40,8 @@ A secure MERN stack application for managing personal notes.
 - Clean REST API structure
 - Deployed frontend and backend with real-world debugging
 
-🔗 Live App: https://note-keeper-app-phi.vercel.app
-🔗 Repo: https://github.com/jhasaurav97/Note-Keeper-App
+- 🔗 Live App: https://note-keeper-app-phi.vercel.app
+- 🔗 Repo: https://github.com/jhasaurav97/Note-Keeper-App
 
 ---
 
