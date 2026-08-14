@@ -35,20 +35,22 @@ I enjoy taking projects from **architecture → implementation → deployment �
 
 ---
 
-### 🔹 InsightForge — AI-Enabled Analytics Platform
+### 🔹 FotoOwl Headless Media SDK
 
-A production-style full-stack analytics application designed to process user input and generate intelligent insights.
+A framework-agnostic headless media platform built as a TypeScript monorepo with strict package boundaries between the core SDK, React wrapper, headless UI library, and Vite web app.
 
 **Highlights**
-- Node.js + Express backend
-- PostgreSQL + Prisma ORM
-- Secure JWT authentication with protected API routes
-- Python FastAPI microservice for AI-based processing
-- Docker multi-service architecture
-- Resolved real deployment issues including CORS, React Router refresh 404s, and service communication bugs
+- TypeScript-first, framework-agnostic media core SDK
+- React wrapper and headless UI component architecture
+- Strict npm workspace dependency boundaries
+- Paginated search and video-search APIs
+- In-memory request de-duplication cache
+- Headless hooks and event-driven interactions
+- Clean separation between business logic, wrappers, and UI
+- Vite web application consuming the SDK packages
 
-🔗 **Live App:** https://insightforge-nine.vercel.app  
-🔗 **Repository:** https://github.com/jhasaurav97/insightforge
+🔗 **Live App:** https://fotoowl-headless-media-sdk-web.vercel.app/  
+🔗 **Repository:** https://github.com/jhasaurav97/fotoowl-headless-media-sdk
 
 ---
 
@@ -71,6 +73,7 @@ A full-stack application with a React frontend and Node.js backend, focused on s
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,7 +87,7 @@ A full-stack application with a React frontend and Node.js backend, focused on s
 ### AI & Data
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Finnhub](https://img.shields.io/badge/Finnhub-0A0A0A?style=for-the-badge)
-![APIs](https://img.shields.io/badge/API%20Integration-2F80ED?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-2F80ED?style=for-the-badge)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,6 +106,7 @@ A full-stack application with a React frontend and Node.js backend, focused on s
 - PostgreSQL/MongoDB data models and persistence layers
 - AI-powered applications and API orchestration
 - Full-stack applications with React and Node.js
+- TypeScript SDK and headless UI architectures
 - Dockerized and deployed applications
 - Background processing and resilient integrations
 - Debugging of real deployment and integration issues
