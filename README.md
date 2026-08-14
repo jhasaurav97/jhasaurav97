@@ -1,60 +1,116 @@
-# Hi, I’m Saurav Jha 👋
+# Hi, I'm Saurav Jha 👋
 
-Backend-leaning Full Stack Developer specializing in Node.js, REST APIs, and PostgreSQL. I build production-ready web applications with a focus on backend architecture, authentication systems, and scalable API design.
+### Full Stack Developer | Node.js • React • PostgreSQL • AI
 
----
+Backend-leaning Full Stack Developer focused on building production-ready applications, intelligent backend systems, REST APIs, authentication flows, database-driven products, and AI-powered experiences.
 
-## 🚀 What I’m focused on
-
-- Building and shipping **production-ready full-stack applications**
-- Designing clean APIs and handling authentication, validation, and data flow
-- Debugging real deployment issues and improving system reliability
-- Writing maintainable code with clear structure
+I enjoy taking projects from **architecture → implementation → deployment → real-world debugging**.
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 InsightForge – AI Enabled Analytics Platform
+### 🔹 Atlas AI — Financial Intelligence Assistant
 
-A production-style full stack application designed to process user input and generate insights.
+**AI-powered financial intelligence assistant built for Telegram.** Atlas combines persistent memory, multi-source financial data, SEC filings, personalized watchlists, contextual AI reasoning, and proactive market monitoring.
 
-Highlights
-• Node.js + Express backend with PostgreSQL and Prisma ORM
-• Secure JWT authentication with protected API routes
-• Python FastAPI microservice for AI-based processing
-• Docker containerization with multi-service deployment
-• Solved real production issues including CORS handling, React Router refresh 404 errors, and service communication bugs
+**Highlights**
+- 🧠 Persistent short-term and long-term memory using **PostgreSQL + Prisma**
+- ⚡ Intent-aware routing for financial requests
+- 📈 **Finnhub** market data with **Yahoo Finance** fallback
+- 📰 **Marketaux** financial news intelligence
+- 🏛️ **SEC EDGAR** regulatory filing research
+- 🎯 Personalized analysis using user memory and watchlists
+- 🔔 Background watchlist monitoring with **±3% significance threshold**
+- 🛡️ Database-backed alert cooldown and deduplication
+- 🤖 Google Gemini reasoning layer
+- 🚀 Deployed Telegram bot and backend
 
-🔗 Live App: https://insightforge-nine.vercel.app  
-🔗 Repo: https://github.com/jhasaurav97/insightforge
+🔗 **Live Bot:** https://t.me/AtlasFinancialAssistantBot  
+🔗 **Live Backend:** https://atlas-ai-financial-assistant-zrtk.onrender.com  
+🔗 **Repository:** https://github.com/jhasaurav97/atlas-ai-financial-assistant  
+🔗 **Demo:** https://www.loom.com/share/94998c29ad4445be9eaf87e8a120d294
 
----
-
-### 🔹 Note Keeper App
-
-A secure MERN stack application for managing personal notes.
-
-Highlights
-• JWT authentication and protected routes
-• REST API with full CRUD operations
-• Modular backend structure with middleware-based authorization
-
-🔗 Live App: https://note-keeper-app-phi.vercel.app  
-🔗 Repo: https://github.com/jhasaurav97/Note-Keeper-App
+> **Note:** The live backend uses Render's free tier and may sleep when inactive. Open the backend URL once before testing the Telegram bot so the service can wake up.
 
 ---
 
-## 🛠 Tech Stack
+### 🔹 InsightForge — AI-Enabled Analytics Platform
 
-Backend: Node.js, Express, REST APIs, JWT Authentication  
-Database: PostgreSQL, MongoDB, Prisma  
-Frontend: React, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
-Tools: Docker, Git, GitHub, Postman, Vercel, Render
+A production-style full-stack analytics application designed to process user input and generate intelligent insights.
+
+**Highlights**
+- Node.js + Express backend
+- PostgreSQL + Prisma ORM
+- Secure JWT authentication with protected API routes
+- Python FastAPI microservice for AI-based processing
+- Docker multi-service architecture
+- Resolved real deployment issues including CORS, React Router refresh 404s, and service communication bugs
+
+🔗 **Live App:** https://insightforge-nine.vercel.app  
+🔗 **Repository:** https://github.com/jhasaurav97/insightforge
 
 ---
 
-## 📫 Connect with me
+### 🔹 Pixisphere — Full-Stack Media Platform
 
-- LinkedIn: https://www.linkedin.com/in/jha-saurav97  
-- Email: jhasaurav593@gmail.com
+A full-stack application with a React frontend and Node.js backend, focused on structured API communication, user-facing workflows, and production-style deployment.
+
+🔗 **Frontend:** https://github.com/jhasaurav97/pixisphere-frontend  
+🔗 **Backend:** https://github.com/jhasaurav97/pixisphere-backend
+
+---
+
+## 🧰 Technical Strengths
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### AI & Data
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Finnhub](https://img.shields.io/badge/Finnhub-0A0A0A?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API%20Integration-2F80ED?style=for-the-badge)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧩 What I Build
+
+- Production-style REST APIs and backend services
+- Authentication and authorization systems
+- PostgreSQL/MongoDB data models and persistence layers
+- AI-powered applications and API orchestration
+- Full-stack applications with React and Node.js
+- Dockerized and deployed applications
+- Background processing and resilient integrations
+- Debugging of real deployment and integration issues
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/jha-saurav97
+- **GitHub:** https://github.com/jhasaurav97
+- **Email:** jhasaurav593@gmail.com
