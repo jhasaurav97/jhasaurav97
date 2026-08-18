@@ -54,12 +54,23 @@ A framework-agnostic headless media platform built as a TypeScript monorepo with
 
 ---
 
-### 🔹 Pixisphere — Full-Stack Media Platform
+### 🔹 InsightForge — AI-Powered Full-Stack Web Application
 
-A full-stack application with a React frontend and Node.js backend, focused on structured API communication, user-facing workflows, and production-style deployment.
+An AI-powered full-stack web application built to turn user input into meaningful insights through a responsive React interface and a production-style backend. The project focuses on real-world engineering concerns including authentication, validation, database persistence, secure API communication, deployment, and failure handling.
 
-🔗 **Frontend:** https://github.com/jhasaurav97/pixisphere-frontend  
-🔗 **Backend:** https://github.com/jhasaurav97/pixisphere-backend
+**Highlights**
+- 🤖 AI-powered insight generation through backend services
+- 🔐 JWT-based authentication with protected routes
+- 🗄️ PostgreSQL database with **Prisma ORM** for schema management and persistence
+- ⚡ RESTful backend APIs built with **Node.js + Express.js**
+- 🎨 Responsive React UI with Tailwind CSS and light/dark theme support
+- 🛡️ Input validation, error handling, and secure API communication
+- 🐳 Dockerized backend and production-style deployment workflow
+- 🚀 Frontend deployed on **Vercel** and backend deployed on **Render**
+- 🔧 Resolved real deployment issues including Vercel SPA refresh/404 handling, CORS, and Prisma/Docker compatibility
+
+🔗 **Live App:** https://insightforge-nine.vercel.app  
+🔗 **Repository:** https://github.com/jhasaurav97/insightforge
 
 ---
 
